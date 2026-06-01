@@ -57,8 +57,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/openai-playground.git
-cd openai-playground
+git clone https://github.com/qiantongxue849-wq/OpenAI-API-Playground.git
+cd OpenAI-API-Playground
 ```
 
 ### 2. 安装依赖
@@ -100,7 +100,7 @@ npm run dev
 ## 📁 项目结构
 
 ```
-openai-playground/
+OpenAI-API-Playground/
 ├── src/
 │   ├── app/
 │   │   ├── api/                    # API 路由
